@@ -7,13 +7,13 @@ Frist we uploaded to the Data a SQL database. With the data stored in SQL the da
 
 # How to Use
 
-
 * 1 clone the Repository 
 * 2 open "data_vizualization" directory
 * 3 open "2025Tariffs" in visual Studio code
-  * 3.1 make sure to have extentions Open in browser & Live Server 
-* 4. 
-
+  * 3.1 make sure to have extentions "Open in Browser & "Live Server" 
+* 4 From there, right click the index.html file and select "Open in Default Browser"
+* 5 Your default browser will open where you will find are world map with countries and the percentage they are being tariffed at.
+     
 The Data
 
 
