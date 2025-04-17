@@ -10,11 +10,25 @@ Frist we uploaded to the Data a SQL database. With the data stored in SQL the da
 * 1 clone the Repository 
 * 2 open "data_vizualization" directory
 * 3 open "2025Tariffs" in visual Studio code
-  * 3.1 make sure to have extentions "Open in Browser & "Live Server" 
-* 4 From there, right click the index.html file and select "Open in Default Browser"
+  * 3.1 make sure to have extention "Live Server" 
+* 4 From there, right click the index.html file and select "Open in Live Server"
 * 5 Your default browser will open where you will find are world map with countries and the percentage they are being tariffed at.
+* 6 On the top right corner of map there is a drop down button where you can select and see different veiws of map.
      
-The Data
+# The Data
+
+After you have checkout the map, explore other parts of the repository. Check out Pandas/Matplotlib files where the data was put into data frames and turned into graphs and charts. Examples below. 
+
+![image](https://github.com/user-attachments/assets/c0f4fbd3-4442-417e-85d4-4559abe80c53)
+
+![image](https://github.com/user-attachments/assets/2ee9a509-cdc4-47ae-92c0-f8934ef4a3cd)
+
+![image](https://github.com/user-attachments/assets/6ce17f23-fd70-4aae-9565-71703542d5d7)
+
+![image](https://github.com/user-attachments/assets/5af732d0-7db3-49fc-9727-29431d21dbd2)
+
+
+
 
 
 
