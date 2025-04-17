@@ -17,7 +17,7 @@ Frist we uploaded to the Data a SQL database. With the data stored in SQL the da
      
 # The Data
 
-After you have checkout the map, explore other parts of the repository. Check out Pandas/Matplotlib files where the data was put into data frames and turned into graphs and charts. Examples below. 
+After you have checkout the map, explore other parts of the repository. Check out Pandas/Matplotlib files where the data was put into data frames and turned into graphs and charts. Examples below. Also checkout presentation video and Google slideshow where the data is presented. 
 
 ![image](https://github.com/user-attachments/assets/c0f4fbd3-4442-417e-85d4-4559abe80c53)
 
@@ -26,6 +26,39 @@ After you have checkout the map, explore other parts of the repository. Check ou
 ![image](https://github.com/user-attachments/assets/6ce17f23-fd70-4aae-9565-71703542d5d7)
 
 ![image](https://github.com/user-attachments/assets/5af732d0-7db3-49fc-9727-29431d21dbd2)
+
+# Sources
+
+<ins>Coding</ins>
+
+OpenStreetMap -https://www.openstreetmap.org/copyright
+
+Javasript - https://www.javascript.com/
+
+Pandas - https://pandas.pydata.org/
+
+Matplotlib - https://matplotlib.org/
+
+Microsoft - https://www.microsoft.com/en-us/
+
+Google - https://www.google.com/
+
+Leaflet - https://leafletjs.com/
+
+PostgresSQL - https://www.postgresql.org/
+
+Geopy - https://geopy.readthedocs.io/en/stable/
+
+Pycountry - https://pypi.org/project/pycountry/
+
+Stack Overflow - https://stackoverflow.com/
+
+# Authors 
+Cole Sherwin, Tomas Banuelos, Robert Lawrence, Andrew Njogu, Noah Stevenson
+
+
+
+
 
 
 
