@@ -7,10 +7,10 @@ Frist we uploaded to the Data a SQL database. With the data stored in SQL the da
 
 # How to Use
 
-* 1 clone the Repository 
-* 2 open "data_vizualization" directory
-* 3 open "2025Tariffs" in visual Studio code
-  * 3.1 make sure to have extention "Live Server" 
+* 1 Clone the Repository 
+* 2 Open "data_vizualization" directory
+* 3 Open "2025Tariffs" in visual Studio code
+  * 3.1 Make sure to have extention "Live Server" 
 * 4 From there, right click the index.html file and select "Open in Live Server"
 * 5 Your default browser will open where you will find are world map with countries and the percentage they are being tariffed at.
 * 6 On the top right corner of map there is a drop down button where you can select and see different veiws of map.
@@ -26,6 +26,12 @@ After you have checkout the map, explore other parts of the repository. Check ou
 ![image](https://github.com/user-attachments/assets/6ce17f23-fd70-4aae-9565-71703542d5d7)
 
 ![image](https://github.com/user-attachments/assets/5af732d0-7db3-49fc-9727-29431d21dbd2)
+
+# Ethical
+
+We did not find any ethical concerns with using this data for our analysis. The data was sourced from a public domain website, contains no personal information and is considered public data.
+ 
+
 
 # Sources
 
